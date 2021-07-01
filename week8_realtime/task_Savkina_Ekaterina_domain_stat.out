@@ -1,0 +1,217 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++------+----+------+
+|domain|view|unique|
++------+----+------+
++------+----+------+
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++---------------------+----+------+
+|domain               |view|unique|
++---------------------+----+------+
+|news.rambler.ru      |7   |6     |
+|lenta.ru             |3   |3     |
+|www.rambler.ru       |3   |3     |
+|book-online.com.ua   |3   |3     |
+|www.yaplakal.com     |2   |2     |
+|m.championat.com     |2   |2     |
+|rutube.ru            |2   |2     |
+|avia.pro             |2   |2     |
+|horoscopes.rambler.ru|2   |2     |
+|echo.msk.ru          |2   |2     |
++---------------------+----+------+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++---------------------+----+------+
+|domain               |view|unique|
++---------------------+----+------+
+|news.rambler.ru      |11  |10    |
+|www.yaplakal.com     |4   |4     |
+|lenta.ru             |4   |4     |
+|www.rambler.ru       |4   |4     |
+|rutube.ru            |3   |3     |
+|book-online.com.ua   |3   |3     |
+|russian.rt.com       |3   |3     |
+|m.lenta.ru           |2   |2     |
+|horoscopes.rambler.ru|2   |2     |
+|yandex.ru            |2   |2     |
++---------------------+----+------+
+
+-------------------------------------------
+Batch: 3
+-------------------------------------------
++----------------------------+----+------+
+|domain                      |view|unique|
++----------------------------+----+------+
+|news.rambler.ru             |13  |12    |
+|www.rambler.ru              |7   |7     |
+|www.yaplakal.com            |4   |4     |
+|www.championat.com          |4   |4     |
+|lenta.ru                    |4   |4     |
+|miss-tramell.livejournal.com|4   |3     |
+|rutube.ru                   |3   |3     |
+|m.championat.com            |3   |3     |
+|avia.pro                    |3   |3     |
+|ml-dom.livejournal.com      |3   |1     |
++----------------------------+----+------+
+
+-------------------------------------------
+Batch: 4
+-------------------------------------------
++----------------------------+----+------+
+|domain                      |view|unique|
++----------------------------+----+------+
+|news.rambler.ru             |14  |13    |
+|www.rambler.ru              |12  |12    |
+|www.championat.com          |8   |7     |
+|lenta.ru                    |7   |7     |
+|www.yaplakal.com            |6   |6     |
+|www.coins-spb.ru            |5   |1     |
+|yandex.ru                   |4   |4     |
+|weekend.rambler.ru          |4   |4     |
+|rutube.ru                   |4   |4     |
+|miss-tramell.livejournal.com|4   |3     |
++----------------------------+----+------+
+
+-------------------------------------------
+Batch: 5
+-------------------------------------------
++------------------+----+------+
+|domain            |view|unique|
++------------------+----+------+
+|news.rambler.ru   |17  |14    |
+|www.rambler.ru    |12  |12    |
+|www.championat.com|9   |8     |
+|www.coins-spb.ru  |9   |1     |
+|www.yaplakal.com  |7   |7     |
+|lenta.ru          |7   |7     |
+|yandex.ru         |6   |6     |
+|echo.msk.ru       |5   |4     |
+|rutube.ru         |5   |5     |
+|m.lenta.ru        |4   |4     |
++------------------+----+------+
+
+-------------------------------------------
+Batch: 6
+-------------------------------------------
++------------------+----+------+
+|domain            |view|unique|
++------------------+----+------+
+|news.rambler.ru   |21  |18    |
+|www.rambler.ru    |13  |13    |
+|www.championat.com|10  |9     |
+|www.coins-spb.ru  |9   |1     |
+|lenta.ru          |7   |7     |
+|yandex.ru         |7   |7     |
+|www.yaplakal.com  |7   |7     |
+|echo.msk.ru       |6   |5     |
+|www.mk.ru         |6   |6     |
+|rutube.ru         |6   |6     |
++------------------+----+------+
+
+-------------------------------------------
+Batch: 7
+-------------------------------------------
++------------------+----+------+
+|domain            |view|unique|
++------------------+----+------+
+|news.rambler.ru   |23  |19    |
+|www.championat.com|13  |12    |
+|www.rambler.ru    |13  |13    |
+|www.coins-spb.ru  |9   |1     |
+|www.yaplakal.com  |8   |8     |
+|yandex.ru         |7   |7     |
+|www.mk.ru         |7   |7     |
+|lenta.ru          |7   |7     |
+|echo.msk.ru       |7   |6     |
+|rutube.ru         |6   |6     |
++------------------+----+------+
+
+-------------------------------------------
+Batch: 8
+-------------------------------------------
++------------------+----+------+
+|domain            |view|unique|
++------------------+----+------+
+|news.rambler.ru   |32  |26    |
+|www.rambler.ru    |15  |15    |
+|www.championat.com|14  |13    |
+|yandex.ru         |10  |10    |
+|www.yaplakal.com  |9   |9     |
+|www.coins-spb.ru  |9   |1     |
+|rutube.ru         |8   |8     |
+|echo.msk.ru       |7   |6     |
+|lenta.ru          |7   |7     |
+|www.mk.ru         |7   |7     |
++------------------+----+------+
+
+-------------------------------------------
+Batch: 9
+-------------------------------------------
++------------------+----+------+
+|domain            |view|unique|
++------------------+----+------+
+|news.rambler.ru   |34  |28    |
+|www.championat.com|16  |15    |
+|www.rambler.ru    |15  |15    |
+|yandex.ru         |10  |10    |
+|www.yaplakal.com  |9   |9     |
+|m.lenta.ru        |9   |9     |
+|www.coins-spb.ru  |9   |1     |
+|rutube.ru         |8   |8     |
+|www.mk.ru         |8   |8     |
+|echo.msk.ru       |7   |6     |
++------------------+----+------+
+
+-------------------------------------------
+Batch: 10
+-------------------------------------------
++--------------------+----+------+
+|domain              |view|unique|
++--------------------+----+------+
+|news.rambler.ru     |37  |31    |
+|www.rambler.ru      |19  |18    |
+|www.championat.com  |17  |16    |
+|yandex.ru           |12  |12    |
+|www.sport-express.ru|10  |7     |
+|www.yaplakal.com    |10  |10    |
+|m.lenta.ru          |9   |9     |
+|www.mk.ru           |9   |9     |
+|www.coins-spb.ru    |9   |1     |
+|echo.msk.ru         |8   |7     |
++--------------------+----+------+
+
+-------------------------------------------
+Batch: 11
+-------------------------------------------
++--------------------+----+------+
+|domain              |view|unique|
++--------------------+----+------+
+|news.rambler.ru     |41  |33    |
+|www.rambler.ru      |20  |19    |
+|www.championat.com  |19  |18    |
+|yandex.ru           |12  |12    |
+|www.coins-spb.ru    |11  |1     |
+|www.sport-express.ru|10  |7     |
+|www.yaplakal.com    |10  |10    |
+|www.mk.ru           |10  |10    |
+|m.lenta.ru          |9   |9     |
+|echo.msk.ru         |8   |7     |
++--------------------+----+------+
+
+
+
+
+
+
+
+
+
+
+
+
